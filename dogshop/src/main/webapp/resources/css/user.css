@@ -1,0 +1,47 @@
+
+.mxw600 {
+	max-width: 600px;
+}
+
+
+/* 디스플레이 */
+.inblock {
+	display: inline-block;
+}
+
+/* 마진 클래스 */
+.mg0 {
+	margin: 0px;
+}
+.mgt20 {
+	margin-top: 20px;
+}
+
+.mgb20 {
+	margin-bottom: 20px;
+}
+.mgl20 {
+	margin-left: 20px;
+}
+
+/* 패딩 클래스*/
+.pdAll10 {
+	padding: 10px;
+}
+.pdAll20 {
+	padding: 20px;
+}
+
+.pdl10 {
+	padding-left: 10px;
+}
+
+.h10 {
+	height: 10px;
+}
+.ft15 {
+	font-size : 15pt;
+}
+
+
+
